@@ -21,7 +21,7 @@
             <h2>
                 All designs are available.
             </h2>
-            <img src="m1.png" width="1000px">
+            <img src="meh3.webp" width="1000px">
         </center>
     </body>
 </html>
