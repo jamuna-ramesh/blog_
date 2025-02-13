@@ -22,12 +22,6 @@
                 All designs are available.
             </h2>
             <img src="meh3.webp"width="1000px">
-         
-            <div class="image-container">
-            <img src="meh2.jpg"width="200px" alt="Image 2">
-            <img src="meh3.webp"width="200px" alt="Image 3">
-         </div>
         </center>
-
     </body>
 </html>
