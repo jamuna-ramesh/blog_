@@ -4,7 +4,7 @@
         <title>Golden palm</title>    
         <link rel="icon" href="m1.png">
     </head>
-    <body bgcolor="black" style="color: white;">
+    <body bgcolor="white" style="color: black;">
         <center>
             <h1>Valentines Day Special Offer💖</h1>
             <p>Don't miss this.Book your orders for your special day</p>
